@@ -1,0 +1,58 @@
+Undying (Shuckle) @ Leftovers  
+Ability: Fur Coat  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Cotton Guard  
+- Body Press  
+- Recover  
+- Toxic Spikes  
+
+Necromancer (Shuckle) @ Leftovers  
+Ability: Fur Coat  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Cotton Guard  
+- Body Press  
+- Recover  
+- Toxic Spikes  
+
+IShowSpA (Xurkitree) @ Aguav Berry  
+Ability: Beast Boost  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+- Dragon Dance  
+- Photon Geyser  
+- Bug Buzz  
+- Leaf Storm  
+
+Cure 'em (Kyurem-White) @ Aguav Berry  
+Ability: Turboblaze  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Mild Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Flash Cannon  
+- Thunderbolt  
+- Freeze-Dry  
+
+Mr. Blue Sky (Landorus) (M) @ Aguav Berry  
+Ability: Beast Boost  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Naive Nature  
+- Bulk Up  
+- Diamond Storm  
+- Flamethrower  
+- Earthquake  
+
+sWord.exe (Zacian) @ Choice Band  
+Ability: Intrepid Sword  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Hasty Nature  
+- Swords Dance  
+- Astral Barrage  
+- Knock Off  
+- Acrobatics  
+
